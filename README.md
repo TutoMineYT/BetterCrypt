@@ -8,6 +8,6 @@ BetterCrypt is a program that encrypts and decrypts your files with a key that y
 <b>DISCORD:</b> TutoMine#7272<br>
 
 <h1>Download</h1>
-<a href="https://github.com/TutoMineYT/BetterCrypt/releases/download/full-version/BetterCrypt-win.exe">Windows</a>
-<a href="https://github.com/TutoMineYT/BetterCrypt/releases/download/full-version/BetterCrypt-macos">MacOS</a>
-<a href="https://github.com/TutoMineYT/BetterCrypt/releases/download/full-version/BetterCrypt-linux">Linux</a>
+<a href="https://github.com/TutoMineYT/FutureCrypt/releases/download/v2/FutureCrypt-win.exe">Windows</a>
+<a href="https://github.com/TutoMineYT/FutureCrypt/releases/download/v2/FutureCrypt-macos">MacOS</a>
+<a href="https://github.com/TutoMineYT/FutureCrypt/releases/download/v2/FutureCrypt-linux">Linux</a>
